@@ -8,11 +8,12 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+  pathPrefix: '/blog',
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Ahmad Muzaki SA Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Ahmad Muzaki Salman Alfaris`,
+      summary: `is a highly skilled full-stack developer with expertise in Laravel and React.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
