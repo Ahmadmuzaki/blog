@@ -1,7 +1,7 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: React JS - An Introduction
+date: "2023-02-14"
+description: "React JS is a JavaScript library that is used for building user interfaces. It was developed by Facebook in 2011 and has since become one of the most popular front-end frameworks."
 ---
 
 This is my first post on my new fake blog! How exciting!
